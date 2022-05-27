@@ -57,6 +57,11 @@ h1 {
     text-decoration: none;
 }
 
+.copyright {
+    color: #283149;
+    font-family: 'Open Sans', sans-serif;
+}
+
 .main-container {
     padding: 20px 10px 10px;
     background-color: #f3f3f3;
